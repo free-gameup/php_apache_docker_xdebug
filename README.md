@@ -8,7 +8,7 @@
 ---
 ## 環境構築
 ### Dockerコンテナの設定
-* dockerインストール
+* docker, docker-compose のインストール
     * https://hub.docker.com/editions/community/docker-ce-desktop-mac
 * dockerコンテナの起動
 ```
