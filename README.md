@@ -1,7 +1,10 @@
 # php_apache_docker_xdebug
 
-php7.2 + apache + docker + xdebug
-
+下記実行環境を作成
+* php7.2
+* apache
+* docker
+* xdebug
 ---
 ## 環境構築
 ### Dockerコンテナの設定
