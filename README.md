@@ -9,7 +9,7 @@ php7.2 + apache + docker + xdebug
     * https://hub.docker.com/editions/community/docker-ce-desktop-mac
 * dockerコンテナの起動
 ```
-cd ~/[ソース配置先]
+cd ~/[ソースを展開した場所]
 docker-compose up
 ```
 * ブラウザでアクセス
